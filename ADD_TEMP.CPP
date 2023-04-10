@@ -1,3 +1,4 @@
+//write a program additon two number using template function
 #include<iostream.h>
 #include<conio.h>
 template<class t>
